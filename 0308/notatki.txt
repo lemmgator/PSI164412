@@ -1,0 +1,45 @@
+! W DOMU
+
+książka:
+TYPY ZWIĄZKÓW
+RESEARCH - WYBIERZ JEDEN INTERFEJS (CO SIĘ PODOBA CO NIE)
+
+SI - System Informatyczny (w otoczce)
+	* funkcjonalności - DYNAMIKA
+		> Diagram Przypadków Użycia DPU (ang. Use Case UC)
+
+	* dane - STATYKA / STRUKTURA DANYCH
+		> Diagram Klas <<< SQL - byliśmy tu i to nie ten sam przedmiot
+			+ Diagram Obiektów
+		
+	* ograniczenia (poza otoczką)
+
+1. SI
+
+Aktor -- ( Cel  SI ) -- Aktor
+			        |
+		       	  |
+	      		Aktor
+			
+2.
+
+Aktor - obiekt zewnętrzny w stosunku do systemu, 
+		który z nim kolaboruje. Aktorem może być:
+	* osoba
+	* inny system 
+	* abstrakcja - np. czas / przypadki niemożliwe do nazwania
+	
+Przypadek Użycia - zbiór akcji wewnątrz systemu 
+				   (lepiej najpierw wiedzieć czemu się uczyć 
+									 niż po prostu się uczyć)
+
+Związek - asocjacja dwóch obiektów 
+	* przypadek użycia z aktorem
+	* dwa przypadki użycia
+	
+Typy związków: (NAUCZ SIĘ)
+	* asocjacja
+	* generalizacja
+	
+((( ŻEBY ZROBIĆ USE CASE )))
+czasownik w trybie rozkazującym + rzeczownik
